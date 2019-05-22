@@ -5,3 +5,4 @@ authors = ["Deepankar Agrawal <deepankar11093@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+bootloader = "0.6.0"
